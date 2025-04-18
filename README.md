@@ -1,9 +1,7 @@
 # TubeTalk
 An intelligent video assistant that helps you extract knowledge from YouTube content without watching the entire video. By leveraging advanced AI technology, TubeTalk processes video transcripts to create an interactive experience where you can ask questions, get summaries, and explore content through natural conversation.
 
-<video width="640" height="360" controls>
-<source src="[YOUR_VIDEO_URL](https://github.com/user-attachments/assets/5e7881eb-a608-4aa2-ba9d-8bec4f865e93)" type="video/mp4"> Your browser does not support the video tag.
-</video>
+[![Video Placeholder](https://github.com/user-attachments/assets/5e7881eb-a608-4aa2-ba9d-8bec4f865e93)
 
 # Key Features:
 
