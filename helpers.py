@@ -4,7 +4,6 @@ from pydantic import BaseModel, HttpUrl, field_validator
 from urllib.parse import urlparse, parse_qs
 from youtube_transcript_api import YouTubeTranscriptApi
 from typing import List, Dict, Any, Optional
-import chromadb
 from chromadb import Documents, EmbeddingFunction, Embeddings
 from google.api_core import retry
 import streamlit as st
