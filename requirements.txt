@@ -1,3 +1,4 @@
 streamlit
 chromadb
 google-genai
+youtube_transcript_api 
