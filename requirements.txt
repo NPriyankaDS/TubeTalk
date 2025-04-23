@@ -1,3 +1,4 @@
+pysqlite3-binary
 streamlit==1.44.1
 chromadb==1.0.3
 google-genai==1.9.0
